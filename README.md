@@ -1,2 +1,2 @@
 # DSA-CPP
-Learning DSA and C++.
+Learning DSA and C++
