@@ -21,7 +21,7 @@ int main() {
     cout<<"Not a Prime Number"<<endl;
    }
    else if(isPrime(n)) {
-        cout <<" is a Prime number " <<endl;
+        cout <<"Is a Prime number " <<endl;
    }
    else{
        cout<< "Not a prime number "<<endl;
