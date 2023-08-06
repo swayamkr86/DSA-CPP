@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+  cout<<"Enter your amount : ";
   int amount;
   cin>>amount;
   int Rs100 , Rs50 , Rs20 , Rs1;
